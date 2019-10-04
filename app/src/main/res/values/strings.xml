@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheetSwipeable</string>
+    <string name="bottom_sheet_peek">Bottom Sheet Peek</string>
+    <string name="bottom_sheet_content">Bottom Sheet Content</string>
+</resources>

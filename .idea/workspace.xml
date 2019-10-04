@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6887b6f7-60da-43c2-8adf-5b9aebd600d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android-Monitoring-App-RG9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Responsive-Phone-or-Tablet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BBM-Clone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankSampah-BNI-Hackfest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/AdapterRecyclerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/ApiUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/AsyncTack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/DetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/ModelBerita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/java/com/pondokit/beritaq/ViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/drawable/gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/layout/row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeritaQ/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beritaku" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD-Android-Firebase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD-Android-MySQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD-Android-Retrofit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Candle-Light" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cannot-Take-Screenshot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema-Flix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CornerCafe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DangApps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flash-Light" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kamus-Bahasa-Arab-Simple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paskas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ponkes-Apps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_multidex_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_multidex_instrumentation_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_firebaseui_firebase_ui_common_4_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_firebaseui_firebase_ui_firestore_4_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_github_takusemba_multisnaprecyclerview_1_3_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_flags_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_code_gson_gson_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_auth_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_common_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_database_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_firestore_19_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_17_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_firebase_storage_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_firebase_protolite_well_known_types_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_guava_guava_26_0_android_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_google_protobuf_protobuf_lite_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_7_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__com_yarolegovich_discrete_scrollview_1_4_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_android_1_16_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_context_1_16_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_core_1_16_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_okhttp_1_16_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_16_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_grpc_grpc_stub_1_16_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_opencensus_opencensus_api_0_12_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__io_opencensus_opencensus_contrib_grpc_metrics_0_12_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/Rentalin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/AdminActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/UpdateActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/add_data/AddDataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/menu/PojoDataCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/my_book/MyBookActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/my_book/PojoMyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-anydpi/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-anydpi/ic_booking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-hdpi/ic_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-hdpi/ic_booking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-hdpi/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-hdpi/load_place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-hdpi/place_holder_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-mdpi/ic_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-mdpi/ic_booking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-mdpi/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-mdpi/load_place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-mdpi/place_holder_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xhdpi/ic_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xhdpi/ic_booking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xhdpi/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xhdpi/load_place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xhdpi/place_holder_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxhdpi/ic_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxhdpi/ic_booking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxhdpi/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxhdpi/load_place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxhdpi/place_holder_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxxhdpi/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxxhdpi/load_place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable-xxxhdpi/place_holder_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/drawable/bg_btn_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_add_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_my_book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_update.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/row_data_admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/row_data_car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/row_data_car2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/row_data_car3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/row_my_book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/menu/menu_book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rentalin/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sensor-Noise-and-Blow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockCount" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeIsMoney-TIM-DevCYogyakarta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/5.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/Tokomedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/Tokomedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/java/com/example/tokomedia/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/drawable/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/drawable/pil_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tokomedia/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../achmadqomarudin.github.io" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../akses-data-wilayah" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-division" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-monitoring-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitfolio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../happydday-backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../happydday-master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imfunniee.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DzikirQ" beforeDir="false" afterPath="$PROJECT_DIR$/../DzikirQ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/adapter/ShopAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/BookingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/BookingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/login/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/login/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/menu/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/menu/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/register/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/ui/register/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/util/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/java/com/uas/rentalin/util/DiscreteScrollViewOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_booking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_booking.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentalin/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rentalin/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sensor-Gyroscope" beforeDir="false" afterPath="$PROJECT_DIR$/../Sensor-Gyroscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/androidTest/java/com/pondokit/achmad/sensorgyroscope/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/androidTest/java/com/pondokit/beritaq/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/java/com/pondokit/achmad/sensorgyroscope/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/app/src/test/java/com/pondokit/achmad/sensorgyroscope/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/test/java/com/example/tokomedia/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorGYROSCOPE/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/androidTest/java/com/pondokit/achmad/sensornoise/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/androidTest/java/com/example/tokomedia/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/java/com/pondokit/achmad/sensornoise/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/java/com/pondokit/achmad/sensornoise/SoundLevelView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/java/com/pondokit/achmad/sensornoise/SoundMeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/drawable/green.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/drawable/red.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/app/src/test/java/com/pondokit/achmad/sensornoise/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/app/src/test/java/com/pondokit/beritaq/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BeritaQ/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Tokomedia/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SensorNOISE/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happydday" beforeDir="false" afterPath="$PROJECT_DIR$/../happydday" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4e6395e40404" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_bottom_sheet_content.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/round_corner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pondokit/bottomsheetswipeable/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/bottom_sheet.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="26" />
+    <option name="width" value="1366" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com.pondokit.bottomsheetswipeable" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com.pondokit.bottomsheetswipeable" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="BottomSheetSwipeable" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6887b6f7-60da-43c2-8adf-5b9aebd600d1" name="Default Changelist" comment="" />
+      <created>1570146714927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570146714927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1366" height="742" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.20075758" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" weight="0.5436893" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32847896" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Find" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32847896" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.23939393" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_bottom_sheet_content.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/round_corner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pondokit/bottomsheetswipeable/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bottom_sheet.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="e#666#693#0" expanded="true" />
+            <element signature="e#904#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
